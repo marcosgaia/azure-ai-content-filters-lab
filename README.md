@@ -1,10 +1,10 @@
-# 💡 Desafios Microsoft Learn — Azure AI Studio e Fundamentos de IA Generativa
+#  Desafios Microsoft Learn — Azure AI Studio e Fundamentos de IA Generativa
 
 > Documentação dos laboratórios práticos com foco em IA generativa no **Azure AI Foundry**.
 
 ---
 
-## 🧪 Desafios realizados
+##  Desafios realizados
 
 | Desafio | Descrição | Status |
 |--------|----------|--------|
@@ -14,7 +14,7 @@
 
 ---
 
-## 🖼️ Capturas de tela
+## 🖼 Capturas de tela
 
 Abaixo estão algumas imagens extraídas diretamente do ambiente do Azure AI Studio:
 
@@ -40,7 +40,7 @@ Abaixo estão algumas imagens extraídas diretamente do ambiente do Azure AI Stu
 
 ---
 
-## 📁 Arquivos incluídos
+##  Arquivos incluídos
 
 - `AI Foundry Portal.docx` → Documento completo com as evidências
 - `prints/` → Imagens extraídas do portal Azure
@@ -48,7 +48,7 @@ Abaixo estão algumas imagens extraídas diretamente do ambiente do Azure AI Stu
 
 ---
 
-## 📚 Base dos exercícios
+##  Base dos exercícios
 
 - [Explore o Azure AI Studio](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/01-Explore-ai-studio.html)
 - [Tradução e compreensão de conteúdo](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html)
@@ -56,7 +56,7 @@ Abaixo estão algumas imagens extraídas diretamente do ambiente do Azure AI Stu
 
 ---
 
-## 🚀 Autor
+##  Autor
 
 Marcos Gaia  
 [github.com/marcosgaia](https://github.com/marcosgaia)
